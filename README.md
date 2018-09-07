@@ -4,7 +4,8 @@ It is just a  simple project just to expand my knowledge on API Parsing.
 It uses openweatherapi for providing the weather reports.
 
 
-System Requirements:
+# System Requirements:
+
 1.Android Studio - above 2.7
 
 2.Emulator with API atleast 18.(If want to run in the Emulator)
